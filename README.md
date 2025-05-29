@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Nahid Zeinali
 
-<!--
-**Nahidzeinali-web/Nahidzeinali-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Data Scientist with a background in Informatics and Software Engineering, passionate about building robust and scalable AI systems.  
+💼 I work on MLOps, NLP, and healthcare AI, developing end-to-end pipelines from experimentation to deployment.
 
-Here are some ideas to get you started:
+### 🔧 Technologies I Use
+- **MLOps**: MLflow, DVC, Docker, Kubernetes, GitHub Actions, Jenkins
+- **Data Science**: Python, Pandas, Scikit-learn, XGBoost, Huggingface Transformers
+- **Cloud & Infra**: AWS SageMaker, GCP, Minikube, FastAPI, Flask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- 📦 [End-to-End ML Pipeline](https://github.com/Nahidzeinali-web/End_to_End_Pipeline-Project1)
+- 🧠 [Text Summarizer with Huggingface](https://github.com/Nahidzeinali-web/End_to_End_Pipeline-Project3)
+- 📊 [Hotel Reservation ML System – Coming Soon]
+
+### 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 🌐 [My Portfolio Website](https://yourwebsite.com) *(if you have one)*
+
+---
+_“Strive not to be a success, but rather to be of value.” — Albert Einstein_
