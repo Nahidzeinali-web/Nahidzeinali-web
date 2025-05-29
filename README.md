@@ -8,12 +8,13 @@ Currently at the FAIR DATA INNOVATION HUB, I design and deploy end-to-end AI sol
 
 ---
 
-### 🔧 Technologies I Work With
-
-- **MLOps & LLMOps**: MLflow, DVC, GitHub Actions, Jenkins, LangChain, LangGraph, DagsHub, Docker, Kubernetes  
-- **Data Science & NLP**: Python, Pandas, Scikit-learn, XGBoost, Huggingface Transformers, spaCy, NLTK, BERT, GPT, LLaMA  
-- **Cloud & Deployment**: AWS SageMaker, Google Cloud Platform (GCP), Minikube, FastAPI, Flask, Lambda, Bedrock  
-
+### 🔧 Technologies & Tools, I work with...
+- **Data Science & ML Frameworks**: Python, Pandas, NumPy, Scikit-learn, XGBoost, Keras, TensorFlow, PyTorch, Matplotlib, Seaborn 
+- **MLOps & LLMOps**: MLflow, DVC, GitHub Actions, Jenkins, Docker, Kubernetes, LangChain, LangGraph, LangSmith, DAGsHub, Airflow, Grafana  
+- **NLP & LLMs**: Tokenization, NER, Sentiment Analysis, spaCy, NLTK, Transformers (Huggingface), BERT, GPT, LLaMA, RoBERTa, OpenAI API, Gemini, Ollama  
+- **Cloud & Deployment**: AWS (SageMaker, Lambda, Bedrock, S3), Google Cloud Platform (GCP), Minikube, HPC, FastAPI, Flask, Lambda, Bedrock  
+- **Databases & Embedding Stores**: MS SQL Server, PostgreSQL, Cassandra, FAISS, ChromaDB, ASTAR DB  
+- **BI & Statistical Tools**: R, SPSS, SAS, STATA, Power BI  
 
 ---
 
