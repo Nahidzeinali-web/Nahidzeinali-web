@@ -29,7 +29,11 @@ Currently at the **FAIR DATA INNOVATION HUB**, I design and deploy end-to-end AI
 
 - 📊 **BI & Statistical Tools**:  
   `R`, `SPSS`, `SAS`, `STATA`, `Power BI`
+---
+🚀 **Follow along as I explore the world of MLOps, LLMOps, and Agentic AI**  
+This series documents my hands-on learning journey through real-world projects, tutorials, and best practices in deploying intelligent systems.
 
+Stay tuned for structured guides, code notebooks, and insights!
 ---
 
 ### 📫 Let's Connect
