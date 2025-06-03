@@ -2,7 +2,7 @@
 
 <h2 align="center">👋 Hi there — I'm <span style="color:#f39c12;">Nahid Zeinali</span></h2>
 
-I'm a **Senior AI Research and Data Scientist** with over **9 years of experience** at the intersection of software engineering, healthcare, and artificial intelligence. I hold a **Ph.D. in Informatics** from the University of Iowa, where my research focused on applying **Natural Language Processing (NLP)** and **Large Language Models (LLMs)** to enhance clinical decision support and symptom detection.
+I'm a ** AI Research and Data Scientist** with over **9 years of experience** at the intersection of software engineering, healthcare, and artificial intelligence. I hold a **Ph.D. in Informatics** from the University of Iowa, where my research focused on applying **Natural Language Processing (NLP)** and **Large Language Models (LLMs)** to enhance clinical decision support and symptom detection.
 
 Currently at the **FAIR DATA INNOVATION HUB**, I design and deploy end-to-end AI solutions for biomedical research — from LLMOps pipelines and data engineering to scalable, cloud-native deployments. My expertise spans **Generative AI**, **Clinical NLP**, **MLOps/LLMOps**, and **AI-driven application development**.
 
