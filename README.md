@@ -30,7 +30,7 @@ My work bridges rigorous research and real-world deployment — building end-to-
 ## 🏥 Selected Past Projects — University of Iowa
  
 | Project | Description |
-|---|---|---|
+|---|---|
 | **[ Symptom-BERT & Symptom-GPT](https://github.com)** | Named Entity Recognition models for extracting cancer-related symptoms from clinical notes using BERT and GPT-based approaches.|
 | **[Symptom-BERT at Document Level](https://github.com)** | Document-level classification model for detecting cancer symptom categories across entire clinical notes using fine-tuned BERT.|
 | **[Spiritual-BERT](https://github.com/Nahidzeinali-web/Spritual-BERT)** |Domain-specific BERT model for detecting spiritual, existential, and values-based care priorities in clinical notes. |
