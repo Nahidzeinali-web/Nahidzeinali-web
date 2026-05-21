@@ -35,7 +35,7 @@ My work bridges rigorous research and real-world deployment — building end-to-
 | **[Symptom-BERT at Document Level](https://github.com)** | Document-level classification model for detecting cancer symptom categories across entire clinical notes using fine-tuned BERT.|
 | **[Spiritual-BERT](https://github.com/Nahidzeinali-web/Spritual-BERT)** |Domain-specific BERT model for detecting spiritual, existential, and values-based care priorities in clinical notes. |
 | **[Care-BERT](https://github.com)** | Domain-specific BERT model for detecting  care priorities and life-sustaining treatment preferences from EHR narratives. |
-| **[OASIS](https://github.com)** | AI/NLP-driven oncology symptom monitoring platform using EHR data for personalized cancer care | Mobile app|
+| **[OASIS](https://nursing.uiowa.edu/research/oasis)** | AI/NLP-driven oncology symptom monitoring platform using EHR data for personalized cancer care | Mobile app|
  
 ---
  
