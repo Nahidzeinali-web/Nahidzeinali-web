@@ -21,9 +21,9 @@ My work bridges rigorous research and real-world deployment — building end-to-
  
 | Project | Description |
 |---|---|
-| **[DMP Bridge](https://github.com)** | Open-source multimodal GenAI pipeline converting funder-specific DMP PDFs into FAIR-aligned, machine-actionable metadata using LLMs and Document AI |
-| **[DMP Chef](https://github.com)** | RAG pipeline (GPT-4, Gemini, Llama) for automated NIH-compliant, FAIR-aligned Data Management Plan generation |
-| **[LLM Evaluation for NIH DMPs](https://github.com)** | Benchmarked GPT-4.1 vs. Llama 3.3 for NIH DMP generation using SBERT, ROUGE, and human-centered evaluation |
+| **[DMP Bridge](https://github.com/fairdataihub/dmpbridge)** | Open-source multimodal GenAI pipeline converting funder-specific DMP PDFs into FAIR-aligned, machine-actionable metadata using LLMs and Document AI |
+| **[DMP Chef](https://github.com/fairdataihub/dmpchef)** | RAG pipeline (GPT-4, Gemini, Llama) for automated NIH-compliant, FAIR-aligned Data Management Plan generation |
+| **[LLM Evaluation for NIH DMPs](https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-inventory)** | Benchmarked GPT-4.1 vs. Llama 3.3 for NIH DMP generation using SBERT, ROUGE, and human-centered evaluation |
  
 ---
  
@@ -31,10 +31,10 @@ My work bridges rigorous research and real-world deployment — building end-to-
  
 | Project | Description | Key Results |
 |---|---|---|
-| **[Symptom-GPT](https://github.com)** | Transformer/LLM-based NER for cancer symptom detection in 1M+ oncology EHR notes | F1 up to **0.989** (nausea/vomiting) |
-| **[Symptom-BERT](https://github.com)** | Further pre-trained & fine-tuned BERT on 1M oncology EHR notes for 13 symptom groups | Micro-F1 = **0.933** internal, **0.831** external |
-| **[Care-BERT](https://github.com)** | Clinical NLP for care priorities and life-sustaining treatment preferences from EHR narratives | F1 = **0.941**, AUC = **0.978** |
-| **[Spiritual-BERT](https://github.com)** | BioClinicalBERT for under-documented spiritual care detection across 3.6M+ EHR notes | F1 = **0.938** internal, **0.832** external |
+| **[ Symptom-BERT & Symptom-GPT](https://github.com)** | Named Entity Recognition models for extracting cancer-related symptoms from clinical notes using BERT and GPT-based approaches.|
+| **[Symptom-BERT at Document Level](https://github.com)** | Document-level classification model for detecting cancer symptom categories across entire clinical notes using fine-tuned BERT.|
+| **[Spiritual-BERT](https://github.com/Nahidzeinali-web/Spritual-BERT)** |Domain-specific BERT model for detecting spiritual, existential, and values-based care priorities in clinical notes. |
+| **[Care-BERT](https://github.com)** | Domain-specific BERT model for detecting  care priorities and life-sustaining treatment preferences from EHR narratives. |
 | **[OASIS](https://github.com)** | AI/NLP-driven oncology symptom monitoring platform using EHR data for personalized cancer care | Mobile app|
  
 ---
