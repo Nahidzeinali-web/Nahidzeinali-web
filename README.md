@@ -1,49 +1,99 @@
-
-
-<h2 align="center">👋 Hi there — I'm <span style="color:#f39c12;">Nahid Zeinali</span></h2>
-
-I'm a ** AI Research and Data Scientist** with over **9 years of experience** at the intersection of software engineering, healthcare, and artificial intelligence. I hold a **Ph.D. in Informatics** from the University of Iowa, where my research focused on applying **Natural Language Processing (NLP)** and **Large Language Models (LLMs)** to enhance clinical decision support and symptom detection.
-
-Currently at the **FAIR DATA INNOVATION HUB**, I design and deploy end-to-end AI solutions for biomedical research — from LLMOps pipelines and data engineering to scalable, cloud-native deployments. My expertise spans **Generative AI**, **Clinical NLP**, **MLOps/LLMOps**, and **AI-driven application development**.
-
-🔍 *I'm passionate about transforming research into real-world impact through AI-powered tools that advance healthcare, science, and evidence-based decision-making.*
-
+<h2 align="center">👋 Hi, I'm <strong>Nahid Zeinali</strong></h2>
+<h4 align="center">AI Research Scientist · Clinical NLP · LLMs · Biomedical AI · MLOps/LLMOps</h4>
+ 
+<p align="center">
+  <a href="https://www.linkedin.com/in/nahid-zeinali-15440910b/">LinkedIn</a> ·
+  <a href="https://scholar.google.com/citations?hl=en&user=RRW-qkEAAAAJ">Google Scholar</a> ·
+  <a href="https://dagshub.com/nahidzeinali2021">DagsHub</a> ·
+  <a href="mailto:Nahid-zeinali@uiowa.edu">Email</a>
+</p>
 ---
-
-### 🔧 Technologies & Tools I Work With
-
-- 🧪 **Data Science & ML Frameworks**:  
-  `Python`, `Pandas`, `NumPy`, `Scikit-learn`, `XGBoost`, `Keras`, `TensorFlow`, `PyTorch`, `Matplotlib`, `Seaborn`
-
-- ⚙️ **MLOps & LLMOps**:  
-  `MLflow`, `DVC`, `GitHub Actions`, `Jenkins`, `Docker`, `Kubernetes`, `LangChain`, `LangGraph`, `LangSmith`, `DAGsHub`, `Airflow`, `Grafana`
-
-- 💬 **NLP & LLMs**:  
-  `Tokenization`, `NER`, `Sentiment Analysis`, `spaCy`, `NLTK`, `Transformers (Huggingface)`, `BERT`, `GPT`, `LLaMA`, `RoBERTa`, `OpenAI API`, `Gemini`, `Ollama`
-
-- ☁️ **Cloud & Deployment**:  
-  `AWS (SageMaker, Lambda, Bedrock, S3)`, `GCP`, `Minikube`, `HPC`, `FastAPI`, `Flask`
-
-- 🛢 **Databases & Embedding Stores**:  
-  `MS SQL Server`, `PostgreSQL`, `Cassandra`, `FAISS`, `ChromaDB`, `ASTAR DB`
-
-- 📊 **BI & Statistical Tools**:  
-  `R`, `SPSS`, `SAS`, `STATA`, `Power BI`
+ 
+I am an **AI Research Scientist** at the **California Medical Innovation Institute (CMII), San Diego, CA**, with over **9 years of experience** spanning software engineering, healthcare informatics, and applied AI. I hold a **Ph.D. and M.Sc. in Informatics** from the **University of Iowa**, where my doctoral research focused on large-scale clinical NLP and LLM-based symptom detection from over **1 million oncology EHR notes**.
+ 
+My work bridges rigorous research and real-world deployment — building end-to-end **Generative AI**, **RAG pipelines**, **clinical NLP systems**, and **FAIR-aligned biomedical data workflows**. I have authored **10+ peer-reviewed publications** and presented at leading venues including AMIA, IEEE AIMHC, SciDataCon, BOSC, and ARVO.
+ 
+> *"Strive not to be a success, but rather to be of value." — Albert Einstein*
+ 
 ---
-🚀 **Follow along as I explore the world of MLOps, LLMOps, and Agentic AI**  
-This series documents my hands-on learning journey through real-world projects, tutorials, and best practices in deploying intelligent systems.
-
-Stay tuned for structured guides, code notebooks, and insights!
-
+ 
+## 🔬 Current Work — California Medical Innovation Institute
+ 
+| Project | Description |
+|---|---|
+| **[DMP Bridge](https://github.com)** | Open-source multimodal GenAI pipeline converting funder-specific DMP PDFs into FAIR-aligned, machine-actionable metadata using LLMs and Document AI |
+| **[DMP Chef](https://github.com)** | RAG pipeline (GPT-4, Gemini, Llama) for automated NIH-compliant, FAIR-aligned Data Management Plan generation |
+| **[LLM Evaluation for NIH DMPs](https://github.com)** | Benchmarked GPT-4.1 vs. Llama 3.3 for NIH DMP generation using SBERT, ROUGE, and human-centered evaluation |
+ 
 ---
-
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/nahid-zeinali-15440910b/)  
-- 🌐 [DagsHub Profile](https://dagshub.com/nahidzeinali2021)  
+ 
+## 🏥 Selected Past Projects — University of Iowa
+ 
+| Project | Description | Key Results |
+|---|---|---|
+| **[Symptom-GPT](https://github.com)** | Transformer/LLM-based NER for cancer symptom detection in 1M+ oncology EHR notes | F1 up to **0.989** (nausea/vomiting) |
+| **[Symptom-BERT](https://github.com)** | Further pre-trained & fine-tuned BERT on 1M oncology EHR notes for 13 symptom groups | Micro-F1 = **0.933** internal, **0.831** external |
+| **[Care-BERT](https://github.com)** | Clinical NLP for care priorities and life-sustaining treatment preferences from EHR narratives | F1 = **0.941**, AUC = **0.978** |
+| **[Spiritual-BERT](https://github.com)** | BioClinicalBERT for under-documented spiritual care detection across 3.6M+ EHR notes | F1 = **0.938** internal, **0.832** external |
+| **[OASIS](https://github.com)** | AI/NLP-driven oncology symptom monitoring platform using EHR data for personalized cancer care | Mobile app|
+ 
+---
+ 
+## 🛠️ Technologies & Tools
+ 
+**Languages & Data Science**
+`Python` `MATLAB` `C/C++` `C#` `JavaScript` · `Pandas` `NumPy` `Scikit-learn` `Keras` `Matplotlib` `Seaborn`
+ 
+**NLP & LLMs**
+`Transformers (Hugging Face)` `BERT` `RoBERTa` `GPT-4/4.1` `LLaMA 3.3` `Gemini` `OpenAI API` · `NER` `Tokenization` `Sentiment Analysis` `Prompt Engineering` `RAG` `Fine-Tuning` `Agentic AI` `LangChain` `LangGraph` `LangSmith`
+ 
+**MLOps / LLMOps**
+`MLflow` `DVC` `DagsHub` `Apache Airflow (Astro)` `GitHub Actions` `Docker` `AWS SageMaker` `Grafana`
+ 
+**Cloud & HPC**
+`AWS` `GCP` `HPC` `Linux` `FastAPI` `Flask`
+ 
+**Databases & Vector Stores**
+`PostgreSQL` `MS SQL Server` `MongoDB` `FAISS` `ChromaDB` `Cassandra` `Pinecone`
+ 
+**Analytics & BI**
+`SPSS` `SAS` `STATA` `Power BI` `R`
+ 
+---
+ 
+## 📄 Selected Publications
+ 
+- **Zeinali N.** et al. *"Using Large Language Models to Detect Anxiety and Nausea/Vomiting Documentation in Clinical Notes of Patients with Cancer."* **CIN Journal**, 2025.
+- **Zeinali N.** et al. *"Symptom-BERT: Enhancing Cancer Symptom Detection in EHR Clinical Notes."* **Journal of Pain and Symptom Management**, 2024. ⭐ *Selected as "Year in Review" — AMIA Nursing Informatics WG 2024*
+- **Zeinali N.** et al. *"Machine Learning Approaches to Predict Symptoms in People with Cancer: A Systematic Review."* **JMIR Cancer**, 2024.
+- AlBashayreh A., **Zeinali N.** et al. *"Goals-of-Care in Older Adults with Heart Failure, Cancer, and Dementia: Classifying Comfort and Life-Sustaining Preferences Using Priorities-BERT."* **Innovation in Aging**, 2025.
+- Bandyopadhyay A., AlBashayreh A., **Zeinali N.** et al. *"Using Real-World EHR Data to Predict the Development of 12 Cancer-Related Symptoms."* **JAMIA Open**, 2024.
+[→ View full publication list on Google Scholar](https://scholar.google.com/citations?hl=en&user=RRW-qkEAAAAJ)
+ 
+---
+ 
+## 🏆 Honors & Awards
+ 
+- 🥇 **Excellent Award in Research** — University of Iowa, Spring 2025
+- 🎓 **Ballard and Seashore Dissertation Fellowship** — University of Iowa, Fall 2024
+- 💡 **Student Impact Grant** — University of Iowa, Spring 2024
+- 🏅 **Research & Travel GPSG/GSS Award** — University of Iowa, 2021–2024
+- 🎓 **Recruitment Fellowship (IGPI)** — University of Iowa, 2021–2024
+---
+ 
+## 🎓 Education
+ 
+- **Ph.D., Informatics** — University of Iowa, Iowa City, IA, USA
+- **M.Sc., Informatics** — University of Iowa, Iowa City, IA, USA
+- **M.Sc., Medical Informatics** — Tarbiat Modares University, Tehran, Iran
+- **B.S., Computer Software Engineering** — Najafabad Azad University, Isfahan, Iran
+---
+ 
+## 📫 Let's Connect
+ 
+- 💼 [LinkedIn](https://www.linkedin.com/in/nahid-zeinali-15440910b/)
 - 📚 [Google Scholar](https://scholar.google.com/citations?hl=en&user=RRW-qkEAAAAJ)
-
----
-
-> _“Strive not to be a success, but rather to be of value.” — Albert Einstein_
-
+- 🌐 [DagsHub](https://dagshub.com/nahidzeinali2021)
+- 📧 [Nahid-zeinali@uiowa.edu](mailto:Nahid-zeinali@uiowa.edu)
+- 📍 San Diego, CA
+ 
