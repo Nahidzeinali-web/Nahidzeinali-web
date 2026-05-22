@@ -19,11 +19,9 @@ My work bridges rigorous research and real-world deployment — building end-to-
  
 ## 🔬 Current Work — California Medical Innovation Institute
  
-| Project | Description |
-|------------|------------|
-| **[DMP Bridge](https://github.com/fairdataihub/dmpbridge)** | Open-source multimodal GenAI pipeline converting funder-specific DMP PDFs into FAIR-aligned, machine-actionable metadata using LLMs and Document AI |
-| **[DMP Chef](https://github.com/fairdataihub/dmpchef)** | RAG pipeline (GPT-4, Gemini, Llama) for automated NIH-compliant, FAIR-aligned Data Management Plan generation |
-| **[LLM Evaluation for NIH DMPs](https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-inventory)** | Benchmarked GPT-4.1 vs. Llama 3.3 for NIH DMP generation using SBERT, ROUGE, and human-centered evaluation |
+ **[DMP Bridge](https://github.com/fairdataihub/dmpbridge)** | Open-source multimodal GenAI pipeline converting funder-specific DMP PDFs into FAIR-aligned, machine-actionable metadata using LLMs and Document AI 
+ **[DMP Chef](https://github.com/fairdataihub/dmpchef)** | RAG pipeline (GPT-4, Gemini, Llama) for automated NIH-compliant, FAIR-aligned Data Management Plan generation 
+ **[LLM Evaluation for NIH DMPs](https://github.com/fairdataihub/nih-dmp-llm-evaluation-paper-inventory)** | Benchmarked GPT-4.1 vs. Llama 3.3 for NIH DMP generation using SBERT, ROUGE, and human-centered evaluation 
  
 ---
  
