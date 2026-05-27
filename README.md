@@ -2,7 +2,7 @@
 <h4 align="center">AI Research Scientist · Clinical NLP · LLMs · Biomedical AI · MLOps/LLMOps</h4>
  
 <p align="center">
-  <a href="https://https://nahidzeinali-web.github.io//">Portfolio</a> ·
+  <a href="https://nahidzeinali-web.github.io/">Portfolio</a> ·
  <a href="https://www.linkedin.com/in/nahid-zeinali-15440910b/">LinkedIn</a> ·
   <a href="https://scholar.google.com/citations?hl=en&user=RRW-qkEAAAAJ">Google Scholar</a> ·
   <a href="mailto:Nahid-zeinali@uiowa.edu">Email</a>
