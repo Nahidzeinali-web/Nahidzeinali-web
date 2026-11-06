@@ -9,7 +9,7 @@
 </p>
 
  
-I am an **AI Research Scientist** at the **California Medical Innovation Institute (CMII), San Diego, CA**, with over **9 years of experience** spanning software engineering, healthcare informatics, and applied AI. I hold a **Ph.D. and M.Sc. in Informatics** from the **University of Iowa**, where my doctoral research focused on large-scale clinical NLP and LLM-based symptom detection from over **1 million oncology EHR notes**.
+I am an **AI Research Fellow** at the **University of Utah, Salt Lake City, UT**, with over **9 years of experience** spanning software engineering, healthcare informatics, and applied AI. I hold a **Ph.D. and M.Sc. in Informatics** from the **University of Iowa**, where my doctoral research focused on large-scale clinical NLP and LLM-based symptom detection from over **1 million oncology EHR notes**.
  
 My work bridges rigorous research and real-world deployment — building end-to-end **Generative AI**, **RAG pipelines**, **clinical NLP systems**, and **FAIR-aligned biomedical data workflows**. I have authored **10+ peer-reviewed publications** and presented at leading venues including AMIA, IEEE AIMHC, SciDataCon, BOSC, and ARVO.
  
